@@ -33,3 +33,25 @@ I also made several changes by created a new features in the dataframe :
 ![911-Calls_Capstone Project](https://github.com/wiryanatasunardi/Data-Science-Project/blob/main/Images/911-Calls_Capstone%20Project_4.png)
 ![911-Calls_Capstone Project](https://github.com/wiryanatasunardi/Data-Science-Project/blob/main/Images/911-Calls_Capstone%20Project_5.png)
 ![911-Calls_Capstone Project](https://github.com/wiryanatasunardi/Data-Science-Project/blob/main/Images/911-Calls_Capstone%20Project_6.png)
+
+# Project 2 : Finance Data Project
+
+This data project will focus on exploratory data analysis of stock prices. This project is meant to practice my visualization and pandas skills, and it is not meant to be a robust financial analysis or be taken as financial advice.  
+
+I focused on the bank stocks and visualized how they progressed throughout the [financial crisis](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008) all the way to early 2016.
+
+To get the data, I used pandas datareader. I got stocks information for the following banks :
+
+- Bank of America
+- CitiGroup
+- Goldman Sachs
+- JPMorgan Chase
+- Morgan Stanley
+- Wells Fargo
+
+## EDA
+![screenshots](https://github.com/wiryanatasunardi/Data-Science-Project/blob/main/Images/finance_data_1.png)
+![screenshots](https://github.com/wiryanatasunardi/Data-Science-Project/blob/main/Images/newplot.png)
+![screenshots](https://github.com/wiryanatasunardi/Data-Science-Project/blob/main/Images/newplot_1.png)
+![screenshots](https://github.com/wiryanatasunardi/Data-Science-Project/blob/main/Images/newplot_2.png)
+![screenshots](https://github.com/wiryanatasunardi/Data-Science-Project/blob/main/Images/newplot_3.png)
