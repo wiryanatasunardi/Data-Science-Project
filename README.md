@@ -26,10 +26,10 @@ I also made several changes by created a new features in the dataframe :
 
 ## Project Highlight
 
-![alt text](Images/911-Calls_Capstone Project.png)
-![alt text](Images/911-Calls_Capstone Project_1.png)
-![alt text](Images/911-Calls_Capstone Project_2.png)
-![alt text](Images/911-Calls_Capstone Project_3.png)
-![alt text](Images/911-Calls_Capstone Project_4.png)
-![alt text](Images/911-Calls_Capstone Project_5.png)
-![alt text](Images/911-Calls_Capstone Project_6.png)
+![911-Calls_Capstone Project](Images/911-Calls_Capstone Project.png)
+![911-Calls_Capstone Project](Images/911-Calls_Capstone Project_1.png)
+![911-Calls_Capstone Project](Images/911-Calls_Capstone Project_2.png)
+![911-Calls_Capstone Project](Images/911-Calls_Capstone Project_3.png)
+![911-Calls_Capstone Project](Images/911-Calls_Capstone Project_4.png)
+![911-Calls_Capstone Project](Images/911-Calls_Capstone Project_5.png)
+![911-Calls_Capstone Project](Images/911-Calls_Capstone Project_6.png)
