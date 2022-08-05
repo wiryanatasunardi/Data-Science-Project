@@ -26,10 +26,10 @@ I also made several changes by created a new features in the dataframe :
 
 ## Project Highlight
 
-![911-Calls_Capstone Project](Images/911-Calls_Capstone Project.png)
-![911-Calls_Capstone Project](Images/911-Calls_Capstone Project_1.png)
-![911-Calls_Capstone Project](Images/911-Calls_Capstone Project_2.png)
-![911-Calls_Capstone Project](Images/911-Calls_Capstone Project_3.png)
-![911-Calls_Capstone Project](Images/911-Calls_Capstone Project_4.png)
-![911-Calls_Capstone Project](Images/911-Calls_Capstone Project_5.png)
-![911-Calls_Capstone Project](Images/911-Calls_Capstone Project_6.png)
+![911-Calls_Capstone Project](https://github.com/wiryanatasunardi/Data-Science-Project/blob/main/Images/911-Calls_Capstone%20Project.png)
+![911-Calls_Capstone Project](https://github.com/wiryanatasunardi/Data-Science-Project/blob/main/Images/911-Calls_Capstone%20Project_1.png)
+![911-Calls_Capstone Project](https://github.com/wiryanatasunardi/Data-Science-Project/blob/main/Images/911-Calls_Capstone%20Project_2.png)
+![911-Calls_Capstone Project](https://github.com/wiryanatasunardi/Data-Science-Project/blob/main/Images/911-Calls_Capstone%20Project_3.png)
+![911-Calls_Capstone Project](https://github.com/wiryanatasunardi/Data-Science-Project/blob/main/Images/911-Calls_Capstone%20Project_4.png)
+![911-Calls_Capstone Project](https://github.com/wiryanatasunardi/Data-Science-Project/blob/main/Images/911-Calls_Capstone%20Project_5.png)
+![911-Calls_Capstone Project](https://github.com/wiryanatasunardi/Data-Science-Project/blob/main/Images/911-Calls_Capstone%20Project_6.png)
