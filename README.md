@@ -50,7 +50,6 @@ To get the data, I used pandas datareader. I got stocks information for the foll
 - Wells Fargo
 
 ## EDA
-![screenshots](https://github.com/wiryanatasunardi/Data-Science-Project/blob/main/Images/finance_data_1.png)
 ![screenshots](https://github.com/wiryanatasunardi/Data-Science-Project/blob/main/Images/newplot.png)
 ![screenshots](https://github.com/wiryanatasunardi/Data-Science-Project/blob/main/Images/newplot_1.png)
 ![screenshots](https://github.com/wiryanatasunardi/Data-Science-Project/blob/main/Images/newplot_2.png)
